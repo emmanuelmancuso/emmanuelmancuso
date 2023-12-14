@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Manu, a passionate Data Scientist dedicated to exploring the realms of data and turning insights into meaningful stories.
+
+🚀 Currently, I'm immersed in a variety of personal projects, where I leverage my skills to unravel the potential hidden within data.
+
+🌟 If you find my work intriguing and wish to support its continuous improvement, consider following me on GitHub [here]!
+
+Let's unlock the power of data together!
+
+Manu
+
 <!--
 **emmanuelmancuso/emmanuelmancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
