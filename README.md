@@ -1,26 +1,47 @@
-### Hi there 👋
+# Hi there 👋 I’m Manu (Emmanuel Mancuso)
 
-I'm Manu, a passionate Data Scientist dedicated to exploring the realms of data and turning insights into meaningful stories.
+🎯 **AI / Data Consultant** — **Référent IA @BleuLemon.fr**, Data Scientist & **Développeur Python**  
+J’aide les équipes à passer de l’intention à des solutions **data/IA concrètes**, utiles, et déployées.
 
-🚀 Currently, I'm immersed in a variety of personal projects, where I leverage my skills to unravel the potential hidden within data.
+---
 
-🌟 If you find my work intriguing and wish to support its continuous improvement, consider following me on GitHub [here]!
+## 🚀 Ce sur quoi je travaille en ce moment
+- **IA appliquée au quotidien des équipes** : assistants, recherche intelligente, automatisations
+- **GenAI & RAG** : rendre les réponses **fiables**, **traçables** et **ancrées** dans vos données
+- **Computer Vision** : projets orientés “terrain” et cas d’usage réels
+- **Data products** : du prototype à la prod (tests, déploiement, maintenance)
 
-Let's unlock the power of data together!
+---
 
-Manu
+## 🧰 Stack (souvent)
+- **Python**, **SQL**
+- **Django** (web apps), **Docker**
+- **PostgreSQL**
+- Déploiement & cloud (selon contexte)
 
-<!--
-**emmanuelmancuso/emmanuelmancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Projets (sélection)
+- **IA Trail** — plateforme web de recherche de photos d’événements (vision, expérience utilisateur, déploiement)
+- **Python’s Fun** — petite app web d’ASCII art
+- **My Stock Bot** — app de suivi d’investissements long terme *(en cours / à venir)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Plus de détails sur mes projets : **Portfolio** — https://emmanuelmancuso.com/
+
+---
+
+## ✍️ J’écris aussi
+Je partage régulièrement des retours d’expérience et des sujets autour de l’IA (RAG, intégration, enjeux, cas d’usage en entreprise).  
+Blog : https://blog.bleulemon.fr/
+
+---
+
+## 🤝 Travaillons ensemble
+Si tu veux échanger (mission, projet, idée, feedback, collab) :
+- **LinkedIn** : https://www.linkedin.com/in/emmanuel-mancuso
+- **Portfolio** : https://emmanuelmancuso.com/
+
+---
+
+## ⭐️ Support
+Si mon travail t’aide ou t’inspire, n’hésite pas à **follow** et à laisser une ⭐️ sur les repos que tu utilises 🙂
